@@ -9,7 +9,7 @@ permalink:        pretty
 title:            'Mike Stock'
 tagline:          'a stock blog'
 description:      'a place for random thoughts and technical ramblings'
-url:              http://mikeastock.com
+url:              https://mikeastock.com/blog
 baseurl:          /
 
 author:
