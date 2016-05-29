@@ -10,7 +10,7 @@ title:            'Mike Stock'
 tagline:          'a stock blog'
 description:      'a place for random thoughts and technical ramblings'
 url:              https://mikeastock.com/blog
-baseurl:          /blog
+baseurl:          /blog/
 
 author:
   name:           'Mike Stock'
