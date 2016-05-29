@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Mike Stock'
+tagline:          'a stock blog'
+description:      'a place for random thoughts and technical ramblings'
+url:              http://mikeastock.com
+baseurl:          /
+
+author:
+  name:           'Mike Stock'
+  url:            https://twitter.com/mikeastock
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/mikeastock/mikeastock.github.io
+
+gems: [jekyll-paginate, jekyll-gist]
